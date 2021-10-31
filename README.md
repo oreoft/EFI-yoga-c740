@@ -1,6 +1,6 @@
 # EFI_yoga-c740
 
-## 适用于的电脑配置(请注意次EFI是适用于i7版本，如果是i5版本请使用ThrRip大神的(efi)[https://github.com/ThrRip/OpenCore-EFI-Laptop-Lenovo-Yoga-C740-14IML])
+## 适用于的电脑配置(请注意次EFI是适用于i7版本，如果是i5版本请使用ThrRip大神的(efi)[https://github.com/ThrRip/OpenCore-EFI-Laptop-Lenovo-Yoga-C740-14IML]
 | Items       | Model               |
 | ----------- | ------------------- |
 | Laptop      | Lenovo YOGA C740-14IML |
